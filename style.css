@@ -1,0 +1,33 @@
+body{
+    background-color: #D5E1EF;
+    margin: unset;
+    text-size-adjust: none;
+    font-size: 18px;
+    place-items: center;
+    display: grid;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.675rem;
+}
+div{
+background-color: white;
+max-width: 328px;
+text-align: center;
+border-radius: 1.4em;
+padding: 1.075rem;
+margin: 1.075rem;
+}
+h1{
+    font-size: 22px;
+    line-height: 1.275;
+    margin-top: 1.4em;
+    color: black;
+    align: center ;
+}
+p{
+    line-height: 18.9px;
+    color: rgb(107, 103, 103);
+    margin: 1.075em;
+}
